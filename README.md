@@ -7,7 +7,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.ko-fi.com/ko-fi.com/swapnil01245">
+<a href="https://ko-fi.com/swapnil01245">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
 </p>
